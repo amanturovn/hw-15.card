@@ -1,0 +1,18 @@
+body {
+    background: rgb(241, 238, 231);
+}
+.inner {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+/* .card {
+    width: 300px;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+} */
+
+/* .card__li {
+    list-style: none;
+} */
